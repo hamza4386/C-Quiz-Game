@@ -60,6 +60,3 @@ Modular Design: Separate functions for loading questions, calculating scores, an
 
 Muhammad Hamza
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: [Your LinkedIn URL]
